@@ -12,7 +12,6 @@ We aim to develop an LSTM-based neural network model using Bidirectional Recurre
 
 ## Neural Network Model
 
-Include the neural network model diagram.
 
 ## DESIGN STEPS
 
@@ -94,6 +93,9 @@ X1 = [[word2idx[w[0]] for w in s] for s in sentences]
 type(X1[0])
 X1[0]
 max_len = 45
+```
+### Padding
+```
 nums = [[1], [2, 3], [4, 5, 6]]
 sequence.pad_sequences(nums)
 nums = [[1], [2, 3], [4, 5, 6]]
