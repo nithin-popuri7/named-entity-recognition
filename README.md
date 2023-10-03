@@ -1,4 +1,4 @@
-![image](https://github.com/nithin-popuri7/named-entity-recognition/assets/94154780/ca1bf1b0-f803-4ee1-8d17-4fb2f57250ef)# Named Entity Recognition
+# Named Entity Recognition
 
 ## AIM
 
